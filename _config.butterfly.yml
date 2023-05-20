@@ -44,14 +44,14 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: \imges\head.png
+  img: /imges/head.png
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: \imges\index_bg.png
+index_img: /imges/index_bg.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
